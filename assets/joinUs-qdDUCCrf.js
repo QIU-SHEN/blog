@@ -1,0 +1,1 @@
+import{_ as s,c as n,a as t,o as r}from"./index-CMpesjEu.js";const a={},l={class:"about-me"};function d(e,o){return r(),n("div",l,[o[1]||(o[1]=t("h1",null,"加入 我",-1)),o[2]||(o[2]=t("p",null,"微信 13792163368",-1)),t("button",{class:"back-button",onClick:o[0]||(o[0]=u=>e.$router.go(-1))}," 返回 ")])}const f=s(a,[["render",d],["__scopeId","data-v-e985fd20"]]);export{f as default};
